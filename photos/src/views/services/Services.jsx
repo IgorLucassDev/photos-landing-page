@@ -20,7 +20,7 @@ export default () =>{
                 <div className={styles.servicesContainer}>
                     <ServiceComponent
                         serviceImage={Service2}
-                        serviceTitle='FOTOGRAFIAS DE CRIANÇAS'
+                        serviceTitle='FOTOGRAFIA INFANTIL'
                         serviceDescription='Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia ducimus id similique eaque blanditiis suscipit natus sed.'
                     />
 
