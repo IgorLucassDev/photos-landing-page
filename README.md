@@ -4,7 +4,7 @@ It's a Photographer Landing Page Made With React+Vite
 
 Preview: https://igorlucassdev-photos.netlify.app/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/30d8a22e-d660-45ea-800f-e20d2cedd50c/deploy-status)](https://app.netlify.com/sites/igorlucassdev-photos/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bc25fec3-8383-4d21-b43c-6d655d12533a/deploy-status)](https://app.netlify.com/sites/igorlucassdev-photos/deploys)
 
 ## Used Languages and Technologies
 * JavaScript / JSX / React
