@@ -1,0 +1,37 @@
+.titleContainer{
+    margin: 20px;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+
+.Content{
+    text-align: center;
+}
+
+.socialBanners{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
+
+.whatsapp{
+    width: 50px;
+    box-shadow: 4px 4px 30px rgb(78, 255, 51);
+    width: 45px;
+    border-radius: 8px;
+}
+
+.insta{
+    box-shadow: 4px 4px 30px rgb(253, 56, 236);
+    width: 45px;
+    border-radius: 15px;
+}
+
+.map{
+    display: flex;
+    justify-content: center;
+    
+}

@@ -1,0 +1,22 @@
+.Footer{
+    background-color: #1a1a1a;
+    color: #e5e5e5;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.copy{
+    text-align: center;
+}
+
+
+
+.copy > p > a{
+    color: #949494;
+}
+
+@media only screen and (max-width: 640px){
+    .Footer{
+        margin-bottom: 80px;
+    }
+}

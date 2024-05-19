@@ -1,0 +1,25 @@
+/* Montagu Slab Font */
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,100..700&display=swap');
+
+/* Montserrat Font */
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  font-family: "Montserrat", sans-serif;
+  scroll-behavior: smooth;
+}
+
+.title{
+  font-family: "Montagu Slab", serif;
+  font-weight: 200;
+}
+
+
+
+

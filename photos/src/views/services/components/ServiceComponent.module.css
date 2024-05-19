@@ -1,0 +1,38 @@
+.Service{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    width: 320px;
+    padding: 20px;
+    gap: .6rem;
+    border-radius: 20px;
+    box-shadow: 10px 4px 20px rgba(0, 0, 0, 0.220);
+}   
+
+.serviceImage > img{
+    width: 290px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.192);
+}
+
+.serviceTitle{
+    font-size: .90em;
+}
+
+.serviceDescription{
+    color: #8E8E8E;
+    font-size: .9em;
+    text-align: left;
+}
+
+.serviceButton{
+    font-family: "Montserrat", sans-serif;
+    padding: .8rem 3rem;
+    border: none;
+    border-radius: 50px;
+    color: #e5e5e5;
+    background-color: #000;
+    cursor: pointer;
+}
